@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    
+}
+
+.container{
+    margin-top: 50px;
+    border: 10px solid black;   
+}
+
+#wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: sans-serif;
+    font-weight: bolder;
+    font-size: 5em;
+}
+
+#daydate{
+    display: flex;
+    justify-content: center;    
+}
